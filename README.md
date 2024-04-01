@@ -1,4 +1,5 @@
-# performance-check
+
+   # performance-check
 
 We often find ourselves uncertain about whether a process within our operating system, is responsible for performance issues. 
 As a result, we tend to explore numerous tools, leading to a shaky conclusion.
@@ -13,11 +14,12 @@ Steps to follow:
    ![image](https://github.com/shrutisawant6/performance-check/assets/140047758/2bf10d9e-de3b-433d-bc87-22eb0ae938ec)
 2) If not sure of the process name, select 1 to view all the processes:
    
-   ![image](https://github.com/shrutisawant6/performance-check/assets/140047758/61e2f30e-e711-44dd-8c8f-733554c02068)
+   ![image](https://github.com/shrutisawant6/performance-check-exe/assets/140047758/376bb313-94f2-4e5e-b2ce-1f6b1e2f6e2e)
 3) Enter the process name:
    
-   ![image](https://github.com/shrutisawant6/performance-check/assets/140047758/26f1b6dc-1b09-458b-ac59-9c35b4d7bedf)
+   ![image](https://github.com/shrutisawant6/performance-check-exe/assets/140047758/908ddf2a-9eec-459c-93d9-24637cf7b155)
 4) Select one instance of the process.
 5) Validate the performance:
    
-   ![image](https://github.com/shrutisawant6/performance-check/assets/140047758/e774702e-15bf-458b-afd1-a2d23da8efd7)
+   ![image](https://github.com/shrutisawant6/performance-check-exe/assets/140047758/f2bf7190-add0-4f82-b83a-36a93a041142)
+
