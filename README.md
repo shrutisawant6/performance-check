@@ -20,7 +20,7 @@ Steps to follow:
    
    ![image](https://github.com/shrutisawant6/performance-check-exe/assets/140047758/908ddf2a-9eec-459c-93d9-24637cf7b155)
 4) Select one instance of the process.
-5) Validate the performance:
+5) Validate the performance & resource utilization:
    
    ![image](https://github.com/shrutisawant6/performance-check-exe/assets/140047758/f2bf7190-add0-4f82-b83a-36a93a041142)
 
